@@ -1,4 +1,10 @@
-php.file-line.iterator
+FileLinesIterator class
 ======================
 
-class for simple itaration throwgh file lines
+~~~php
+$file = 'test.txt';
+$iterator = new FileLinesIterator($file);
+foreach($iterator as $lineNumber=>$data){
+  //do staff
+}
+~~~
