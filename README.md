@@ -8,3 +8,13 @@ foreach($iterator as $lineNumber=>$data){
   //do staff
 }
 ~~~
+
+composer
+
+~~~json
+{
+  "require": {
+    "liratrium/filelinesiterator": "dev-master"
+  }
+}
+~~~
