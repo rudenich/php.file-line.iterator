@@ -1,0 +1,13 @@
+{
+    "name": "liratrium/filelinesiterator",
+    "authors": [
+        {
+            "name": "Rudenich",
+            "email": "rudenich@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.2.1"
+    }
+}
