@@ -9,5 +9,9 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.2.1"
+    },
+    "autoload": {
+        "files": ["FileLinesIterator.php"]
     }
+
 }
